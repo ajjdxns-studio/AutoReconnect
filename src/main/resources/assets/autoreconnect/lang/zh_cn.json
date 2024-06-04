@@ -1,0 +1,26 @@
+{
+  "text.autoreconnect.disconnect.reconnect": "重新连接",
+  "text.autoreconnect.disconnect.reconnect_in": "在%d秒后重连",
+  "text.autoreconnect.disconnect.cancel": "关闭",
+  "text.autoreconnect.disconnect.reconnect_failed": "无法重连！",
+
+  "text.autoreconnect.config.title": "AutoReconnect配置",
+  "text.autoreconnect.config.option.delays": "延迟",
+  "text.autoreconnect.config.option.infinite": "无限重连",
+  "text.autoreconnect.config.option.automessages": "AutoMessages",
+  "text.autoreconnect.config.option.automessages.instance": "AutoMessages项目",
+  "text.autoreconnect.config.option.automessages.name": "名称",
+  "text.autoreconnect.config.option.automessages.messages": "信息",
+  "text.autoreconnect.config.option.automessages.delay": "延时",
+
+  "text.autoreconnect.config.tooltip.option.delays": "每次尝试之间的延迟(按秒计算)",
+  "text.autoreconnect.config.tooltip.option.infinite": "Whether to repeat reconnecting with the last configured delay",
+  "text.autoreconnect.config.tooltip.option.automessages": "Messages to send after a successful automatic reconnect",
+  "text.autoreconnect.config.tooltip.option.automessages.instance": "Single AutoMessages object for a specific world, server or realm",
+  "text.autoreconnect.config.tooltip.option.automessages.name": "要加入的单人游戏、服务器和realm的名称",
+  "text.autoreconnect.config.tooltip.option.automessages.messages": "Messages to be sent after automatically reconnecting",
+  "text.autoreconnect.config.tooltip.option.automessages.delay": "Delay between messages and before the first one in milliseconds",
+
+  "text.autoreconnect.config.error.empty_list": "空的列表!",
+  "text.autoreconnect.config.error.empty_string": "空的文本域!"
+}
